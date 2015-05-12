@@ -9,3 +9,7 @@
 1. 返回参数说好的签名sign呢
 2. return_msg device_info 居然是{}说好的string呢
 
+### 不统一的命名规则
+
+1. 在第三榜接口交mch_id,在退款和企业付款交mchid
+2. 在第三榜接口交appid,在退款和企业付款交mch_appid
