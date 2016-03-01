@@ -45,3 +45,10 @@
 2. 如果模板已经存在，就提示错误也获取不到id
 3. 这是一个多么该死的逻辑
 4. 获取模板列表里居然没有`template_id_short`字段，你让我如何比对啊
+
+### 常见错误码
+
+* template conflict with industry hint
+* 行业模板冲突
+
+
