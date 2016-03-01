@@ -51,4 +51,6 @@
 * template conflict with industry hint
 * 行业模板冲突
 
+* template num exceeds limit
+* 模板数量超过上限
 
