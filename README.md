@@ -54,3 +54,14 @@
 * template num exceeds limit
 * 模板数量超过上限
 
+### 查询代金券批次信息的文档错误
+
+#### 签名	sign 不错在
+
+#### 时间格式说明和输出不匹配
+
+```
+生效开始时间	begin_time	是	1943787483	String	格式为yyyyMMddhhmmss，如2009年12月27日9点10分10秒表示为20091227091010。
+生效结束时间	end_time	是	1943787490	String	格式为yyyyMMddhhmmss，如2009年12月27日9点10分10秒表示为20091227091010。
+创建时间	create_time	是	1943787420	String	格式为yyyyMMddhhmmss，如2009年12月27日9点10分10秒表示为20091227091010。
+```
